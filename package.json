@@ -1,0 +1,8 @@
+{
+  "name": "devops-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo Running Tests...",
+    "build": "echo Building Application..."
+  }
+}
